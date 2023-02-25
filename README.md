@@ -1,4 +1,8 @@
-# CodeIgniter 4 Framework
+# Test_CodeIgniter
+Language: PHP 7
+Framework: CodeIgniter 4.3.2
+
+Funtion: Login, Manager Product
 
 ## What is CodeIgniter?
 
